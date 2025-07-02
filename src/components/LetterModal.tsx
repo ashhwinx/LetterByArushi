@@ -68,7 +68,7 @@ const LetterModal: React.FC<LetterModalProps> = ({ letter, onClose }) => {
             <div className="text-8xl mb-4 floating-heart">
               {letter.emoji}
             </div>
-            <h2 className="text-2xl md:text-3xl  font-bold cursive text-black mb-4">
+            <h2 className="text-2xl md:text-3xl  font-bold ceursive text-black mb-4">
               {letter.title}
             </h2>
             <div className="w-24 h-1 bg-black mx-auto rounded-full"></div>
@@ -76,7 +76,7 @@ const LetterModal: React.FC<LetterModalProps> = ({ letter, onClose }) => {
 
           <div className={`transition-all duration-1000 ${showContent ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}>
             <div className="bg-gradient-to-br from-pink-50 to-pink-100 rounded-2xl p-6 md:p-8 border-3 border-black">
-              <p className="text-black text-base md:text-lg leading-relaxed cursive font-bold">
+              <p className="text-black text-base md:text-lg leading-relaxed  font-bold">
                 {letter.content}
               </p>
               
