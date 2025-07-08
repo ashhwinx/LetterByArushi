@@ -38,7 +38,7 @@ function App() {
       {/* Footer */}
       <footer className="fixed bottom-0 left-0 right-0 p-4 text-center bg-gradient-to-t from-black/10 to-transparent">
         <p className="text-white text-sm cursive font-bold">
-          No matter the distance, I'm always here — loving you, endlessly. 💗
+        I love to LOVE YOU ✨
         </p>
       </footer>
     </div>

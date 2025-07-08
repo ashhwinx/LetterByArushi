@@ -18,7 +18,7 @@
         <div className="text-center max-w-4xl mx-auto z-10">
           <div className={`mb-5 ${isLoaded ? 'slide-up' : ''}`} style={{ animationDelay: '0.3s' }}>
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold  text-white mb-6 leading-tight">
-              Heyy You
+              Heyy Mohitt
             </h1>
             <div className="w-24 h-1 bg-black mx-auto rounded-full mb-4"></div>
           </div>
