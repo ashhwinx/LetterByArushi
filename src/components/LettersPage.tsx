@@ -112,7 +112,7 @@ const LettersPage: React.FC<LettersPageProps> = ({ onNavigateToHome }) => {
 
         <div className={`text-center mb-12 ${isLoaded ? "fade-in" : ""}`}>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold  text-white mb-4">
-            Choose the letter your heart needs today...
+            All I couldn't say is here in these letter 😘
           </h1>
           <div className="w-32 h-1 bg-black mx-auto rounded-full"></div>
         </div>
@@ -133,18 +133,6 @@ const LettersPage: React.FC<LettersPageProps> = ({ onNavigateToHome }) => {
                 {/* Text on envelope flap */}
                 <div className="envelope-flap-text mt-16 text-black text-xl z-10">
                   {letter.title}
-                </div>
-
-                <div className="envelope-content text-center">
-                  {/* <div className="text-4xl mb-3 floating-heart">
-                    {letter.emoji}
-                  </div> */}
-                  {/* <div className="flex justify-center mb-2">
-                    <IconComponent className="w-6 h-6 text-black" />
-                  </div> */}
-                  {/* <h3 className="text-sm md:text-base font-bold text-black cursive leading-tight">
-                    {letter.title}
-                  </h3> */}
                 </div>
               </div>
             );
