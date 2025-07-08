@@ -16,108 +16,76 @@ interface LettersPageProps {
 const letters = [
   {
     id: 1,
-    title: "Open when you're overthinking ",
+    title: "You need to know how deeply you are loved🤎",
     emoji: "🖤",
     icon: Frown,
     content:
-      "Aapka dimag jab full speed m chalta hai na toh aap ek saath hazaar cheezein soch lete ho jo kabhi hoti bhi nahi hain par m yahan hoon sirf aapke liye 🤍 har overthinking ke peeche sirf ek choti si need hoti hai reassurance ki toh suno m kahin nahi jaa raha hoon m yahi hoon sirf aapka hoon or hamesha aapka hi rahunga 😌 jitna bhi soch lo ki kuch galat ho raha hai ya hone wala hai toh ek baar apne dil se poochhna kya m waisa lagta hoon? aapka har thought mere liye matter karta hai par jab aap zyada sochte ho toh bas apne aap ko hurt karte ho 😢 mujhe bas itna kehna hai ki aap safe ho mere saath aapka har fear sirf ek thought hai reality nahi 🤍 ab ek deep sa saans lo cutu mujhe mehsoos kijiye apne paas or khud se boli he loves me and hes not going anywhere 🫶"
+      `All i want is to let you know that i love you so much 🫶 People say in next life... But they don't even manage to hold on and make through in this life. So all i know is... If not in this... There will never be another. 🔪🫀 I promise you to be with you in this life alteast.  I don't know about the next one...  Thats why i try to express it in every possible way Through letters, through this even through my silence  I'm writing all this if someday I'm not around you still have this....Something that remains with you forever even when I'm no more🌹🤝 I hope this feels like comfort and tight hugs🫂💋 The kind of love and hugs with me saying... "Acha suno na"Before i sleep😭where i stubbornly make you listen so that i just can get your Your take care 🥹 Your thank you 🤌 Your i know And your sleepy voice from which i might never get over 🫠 So promise me you'll open these when you need them the most 🎀 That's when you'll find me in some way, always with you. 🪄 `
   },
   {
     id: 2,
-    title: "Open when you're feeling like I'll leave you",
+    title: "Open when you think you need no one.",
     emoji: "🩷",
     icon: Heart,
     content:
-      "Pagli si pyaari si meri jaan 😌 kya aapko lagta hai m aapko chhod dunga kabhi? mujhe toh roz aapke liye pray karni hoti hai ki bhagwan aapko kabhi bhi meri zindagi se na le jaaye  aap meri comfort ho, aap meri peace ho, aap meri duniya ho jiske bina sab kuch adhura lagta hai 💞 m kahin nahi jaa raha hoon cutu na aaj, na kal, na kabhi aapke mood swings ho ya attitude, mujhe sab kuch chahiye kyuki yeh sab aapka hi toh part hai 🥺 mujhe aapka pura version chahiye koi filtered nahi kabhi bhi aisa lage ki m door ho gaya hoon toh sirf ek hug k sath kisiii ki snap dedena m waapas chipak jaaunga 🧸 aap meri ho or meri hi rahoge hamesha 💌",
+      "I know you don't need anyone you are good at on your own but sometimes the strongest person has no one to trust. I can be the one whom you can trust. I promise I'll never break your trust.✅ When you think you need no one... *I'll still be there....without asking, without any questions, No demands...  quietly loving my YOU more day by day. Just me waiting...to listen* I'm just a text awayy",
   },
   {
     id: 3,
-    title: "Open when you're insecure about yourself",
+    title: "Open when you want to feel peace",
     emoji: "😤",
     icon: Mad,
     content:
-      "Aap jab bhi khud ko insecure feel karte ho na babyyyy mere ko sahi nahi lagta 💔 kyuki mujhe pata hai aap kitne pyaare ho. kitne genuine ho or kitne beautiful ho 🥺 mujhe har din aap pe or zyada pyaar aata hai and even miss you bhott saara aapke bina toh m khud incomplete hu 💖 mujhe kabhi samajh nahi aata ki aap khud m kami kahan dekh lete ho aap toh perfect ho mere liye aapki smile, aapki aankhein, aapki har ek baat mujhe sirf pyaar hi mehsoos karwati hai even aapke cutu putu jokes ctype , m khud gumm rahi hu ✨ duniya jaisi bhi ho mujhe sirf aap chahiye waise jaise aap ho bina kisi filter ke 💕 aap more than enough you are my everythingg babyyy 🤍",
+      "You shouldn't be here i guess.But still if you are so lemme make you remember something again.... Talking to me brings you peace right? So my cutiee just call me now... Yes just now. 🫶At this time you don't even have to say a thing just silence.....Let me be the one with who you really want to feel peace. I'll help you gather all the broken pieces one by one to create peace.",
   },
   {
     id: 4,
-    title: "Open when you're mad at me",
+    title: "Open when you say I'm fine but you are not",
     emoji: "💌",
     icon: Moon,
     content:
-      "Aap mujhe yaad kar rahe ho na cutu ik toh aankhein band karke ek kaam kro baby aap sochiye m aapke paas hoon 🫶 mera haath aapke haath m hai or m aapki aankhon m dekhkar bas smile kar raha hoon 😊 aap mujhe jitna miss karte ho m usse kahin zyada karta hoon par m khush hoon ki hum dono ke dil ek dusre se itne connected hue hain 🤍 doori sirf physical hai hum emotional level pe connected hai 💌 ek din apn surely milenge babyy and wo din sabse bestttest di hoga apna addd sarriiii corer pending kissis leni hai muje apki or uss time m aapko itna tight huggg krunga ki aap sab kuch bhool jaaoge 🧸",
+      "I know you'll never say it... You never so.. And that's  YOU. 🫵But remember I'm always there.🤌 If you want to share I'll always listen.. And ik you'll do it in a way jisse mujhe pta bhi na chle kbhi😂 vo to ese bhi nahi chlta h😭 So anytime ❤‍� ",
   },
   {
     id: 5,
-    title: "Open when you feel lonely",
+    title: "Open when you need a little sunshine",
     emoji: "😟",
     icon: Frown,
     content:
-      "Aap kabhi bhi akeli nahi ho cutu chahe duniya kitni bhi busy ho m  hamesha aapke saath hoon 🫂 jab bhi aapko lage ki sab kuch thoda zyada ho gaya hai ya aapko samajhne wala koi nahi hai toh bas yeh letter padh lijiye 💌 m aapka hoon sirf aapka 🥺 aap chahein toh bas ek message kro baby m instant aapke liye time manage kr loonga aap meri duniya ho or meri duniya ko m kabhi akela nahi chhodta 💖",
+      "Ohh so the sun itself needs some sunshine. Dont worry I'm all yours. 🤝✨Take all of it. No hesitation, no questions ❤ I'll lighten your life more. Full of brightness, colors and life🤎YOU might be my sun ☀ But let me shine for you",
   },
   {
     id: 6,
-    title: "Open when you think you're not enough",
+    title: "Open when silence feels too loud.",
     emoji: "🫂",
     icon: Hug,
     content:
-      "Aap jab aisa sochte ho ki aap enough nahi ho toh mujhe aapko zor se hug krne ka mann karta hai cututu puutuuu 😢 kyuki aap mere liye sirf enough nahi aap best ho perfect ho priceless ho 💎 aapne meri life m jo khushi or pyar fill kar diya hai woh cant expres in words m describe bhi nahi kar sakta 💗 aap meri strength ho meri peace ho or im always proud of you cutuu putuu 🫶 kabhi bhi khud ko kam mat samajhna kyuki mere liye aap meri duniya ho 🤍",
+      "I'm there to listen to you without judging you. In fact meri to raat apki avaaz se hoti h❤‍🩹. You brought life into my life Yes life= YOU🥹If you feel that i can be the one whom you can share your things with please do it🫡 don't keep things within",
   },
   {
     id:7,
-    title: "Open when you had a bad day",
+    title: "Open when you miss me but won't say it",
     emoji: "🫶",
     icon: Hug,
     content:
-      "Agar aaj ka din thoda kharab gaya hai toh koi baat nahi cutu har kisi ke life m aise din aate hain 😞 lekin m chaahta hoon ki aap yeh yaad rakhoge ki aap kitni amazing ho or aapka ek bura din aapko define nahi karta 💫 ab please thoda fresh ho jaayiye music suno thoda or nahi toh call ya vc kru? and m hoon na 🫂 aapki smile wapas chahiye mujhe please?so jldii seeeeee sahi hojaooo 💕",
+      "Waaow! Dont think you'll open this one. But here you are Idk what to write here but all i know is  Ap usi ko miss krte ho jisko ap bhool jate ho. Right? 🥳 But it's okay😘 if you're missing me... Just imagine how much i must be missing you",
   },
   {
     id: 8,
-    title: "Open when you think you're making me irritated",
+    title: "When you  hate rain like you never did before",
     emoji: "🥹",
     icon: Hug,
     content:
-      "Haha jab aap kehte ho na sorry muje laga aap irritate ho jaoge  toh mujhe or zyada pyaar aa jaata hai aap par 🥹 aap mujhe kabhi irritate nahi kar sakte aapke texts, aapki baatein, aapki har ek feeling mujhe valuable lagti hai 💌 m toh chaahta hoon aap roz mujhe batao ki aap kya feel kar rahe ho mujhe aapse connect rehna pasand hai 😇 mujhe aapke mood swings cute lagte hain mujhe har version m aap pasand ho cuttuu  lobbbb youu🧸",
+      "Waow now I'll tell you why i like rain (sometimes) 🌧 Jb barish hoti h esa lgta h sbka dukh drd release hogya h. Jo itne dino se andr rakha tha sb bhr. ✨ And the best part...No one judges you.  I know it comes with chipchip... Geelapan.. And let it be, jb tk barish nahi hategi you have to carry all of it. But After it stops... It comes with hope. A light, life and acceptance You change your clothes and you'll never be able to remember what exactly happened  It's not about fixing but letting out things. ❤️‍🩹 Apka nahi pta but m barish ko us nazariye se dekhti hu Its okay if you still hate it😂 Arushi also hate jb excess me ho",
   },
   {
     id: 9,
-    title: "Open when you're doubting 'us'",
+    title: "When you feel tired of everything 🪄",
     emoji: "🥹",
     icon: Hug,
     content:
-      "Agar kabhi aapke dil m doubt aaye humare baare m toh yeh letter padhiye lo baby🥺 aap or m sirf ek couple nahi hum ek team hai ,family hai💕 humne saath m jo bond banaya hai woh kisi or ke saath kabhi nahi ho sakta m jaanta hoon ki kabhi kabhi fear ya overthinking aata hai par aap bas mujhe batayiye or m uss doubt ko pyaar se door kar doonga 💌 hum strong hai humne bohot kuch handle kiya hai or aage bhi karenge kyuki m aapko kabhi chhod nahi sakta samja babuuuuu i lovvve you bhott zayddaaaa onlyy youuu youuuu my girll🤍",
-  },
-  {
-    id: 10,
-    title: "Open when you can't sleep",
-    emoji: "💖",
-    icon: Hug,
-    content:
-      "Raat ke waqt jab neend nahi aati or thoughts overtake karte hain tab bas aankhein band kroo or sochiye ki m aapke paas hoon 🫂 aapka haath mere haath m hai or m aapke baalon m pyaar se haath ghumaa raha hoon cutu bol raha hoon so jaa baby m yahi hoon 🌙 aap deserve karte ho ek shaant si neend dreams filled with love and peace 💖 m aapke sapne m aakar hug dunga or aapko sab kuch bhool jaane dunga sirf pyaar mehsoos hoga swweetheart ab sojao goooddd nighhhhttt i lovvee you sabse jayddaaa ✨",
-  },
-  {
-    id: 11,
-    title: "Open when you're on your periods",
-    emoji: "😢",
-    icon: Hug,
-    content:
-      "Aap pain m ho na abhi ik baby  😢 m chahta hoon ki aap sirf rest kro abhi khud ka dhyaan rakhiye or kuch bhi zyada na sochiye 😇 aapka mood swing valid hai aapka irritation bhi m sab kuch handle kar loonga kyuki aap meri ho baby ho bas meri meri strong princess  agar m aapke paas hota toh chocolate lekar aata cuddle deta or kehta sab theek ho jaayega meri jaan🧸 love you always 💌",
-  },
-  {
-    id: 12,
-    title: "Open when you want to feel loved",
-    emoji: "💗",
-    icon: Hug,
-    content:
-      "ye padhke muje msg krna kyuki ik letter isnt enough for thsi agar aapko kabhi bhi lage ki aapko pyaar mehsoos karna hai toh bas sochiye ki ek ladka har din aapke baare m sochta hai aapki muskaan imagine karta hai or aapki har choti si baat se pyaar karta hai 💕 woh ladka m hoon 😌 m aapke liye har pal thankful hoon m aapke saath har waqt rehna chahta hoon aapko pyaar dena chahta hoon or har bad time m aapka haath pakad ke chalna chahta hoon 🤍 aap meri duniya ho or meri duniya ko m hamesha pyaar karta rahunga 💗",
-  },
-  {
-    id: 13,
-    title: "Open when you're on your PMS",
-    emoji: "💕",
-    icon: Hug,
-    content:
-      "PMS ka time hai or aap thodi si chiddi si cute si ho gayi ho baby ap 😅 mujhe pata hai aap thoda zyada sensitive ho jaate ho par mujhe har time m aap adorable lagte ho 💕 mujhe pata hai kabhi kabhi bina reason ke rona ya gussa aata hai par m hoon na sab sunne ke liye samajhne ke liye or pyaar se handle karne ke liye 🫂 bas aap thoda chill karo or mujhe feel karne do ki aap meri ho meri pyaari si jaaannuuuu 🧸",
-  },
+      "Ik your are working so hard and being hard on yourself too. But you cant ... You just can't . 💪When world feels heavy, lean on me... I'll be your peace.💞You are doing all the things on your own let me do some with my YOU😘 Let me just sit by your side and listen to you, let me the shoulder you want to lean on anytime, always",
+  }
 ];
 
 const LettersPage: React.FC<LettersPageProps> = ({ onNavigateToHome }) => {
@@ -136,14 +104,14 @@ const LettersPage: React.FC<LettersPageProps> = ({ onNavigateToHome }) => {
       <div className="max-w-6xl mx-auto">
         <button
           onClick={onNavigateToHome}
-          className="mb-8 flex items-center gap-2 text-black hover:text-gray-700 transition-colors duration-200 font-bold"
+          className="mb-8 flex items-center gap-2 text-white hover:text-gray-700 transition-colors duration-200 font-bold"
         >
           <ArrowLeft className="w-5 h-5" />
           <span className="font-bold">Back to Home</span>
         </button>
 
         <div className={`text-center mb-12 ${isLoaded ? "fade-in" : ""}`}>
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold  text-black mb-4">
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold  text-white mb-4">
             Choose the letter your heart needs today...
           </h1>
           <div className="w-32 h-1 bg-black mx-auto rounded-full"></div>
